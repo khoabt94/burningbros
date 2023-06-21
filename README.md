@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with My Infinite Scroll and Search (for Burning Bros application)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
